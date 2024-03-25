@@ -1,10 +1,10 @@
 window.config = {
   todoApiUrl:
-    "https://ec149f4e-f145-4064-a8ab-e1fc8f0c563f-dev.e1-us-east-azure.choreoapis.dev/rgyo/todo-svc/graphql-todo-aa9/1.0.0/",
+    "https://48170b68-2ff5-43fd-ae11-72a5f12e87c9-dev.e1-us-cdp-2.choreoapis.dev/umwe/service/graphql-todo-aa9/v1",
   auth: {
-    signInRedirectURL: "http://localhost:5173",
-    signOutRedirectURL: "http://localhost:5173",
-    clientID: "DXmO3q4E4IAJx9dZE5yyNATRjO4a",
-    baseUrl: "https://api.asgardeo.io/t/mirajabeysekara",
+    signInRedirectURL: "https://059e425d-b97f-4294-a5d0-8f5553c8857f.e1-us-cdp-2.choreoapps.dev",
+    signOutRedirectURL: "https://059e425d-b97f-4294-a5d0-8f5553c8857f.e1-us-cdp-2.choreoapps.dev",
+    clientID: "fRC384N6c_MhSjZn7Jvqfs0Mq9oa",
+    baseUrl: "https://api.asgardeo.io/t/sachinthar",
   },
 };
